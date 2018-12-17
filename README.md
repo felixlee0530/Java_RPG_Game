@@ -13,4 +13,4 @@ The text-based RPG game contains these functionalities:
 
 Download the ZIP file from the RELEASES section, open the project in your IDE, and enjoy!
 
-- Developer Felix Lee -
+@ Developer Felix Lee @
