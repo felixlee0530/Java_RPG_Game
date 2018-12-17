@@ -1,0 +1,3 @@
+This folder contains all the JAVA files I used to create the project, Version 1.0.
+You can download the java files and copy the content, paste them in your new project if you aren't using IntelliJ IDEA Java IDE.
+If you are using IntelliJ IDEA, please download the ZIP file in the 'Releases' section, unzip it, and open it in the IDE!
